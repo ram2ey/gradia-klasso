@@ -1,0 +1,62 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1780745442882,
+      "tag": "0000_messy_dark_beast",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1780746075691,
+      "tag": "0001_fearless_bushwacker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1780747042611,
+      "tag": "0002_opposite_clea",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1780747818845,
+      "tag": "0003_wakeful_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1780749972419,
+      "tag": "0004_zippy_umar",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1780752439453,
+      "tag": "0005_mighty_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1781104778051,
+      "tag": "0006_pink_ravenous",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1781110814218,
+      "tag": "0007_flippant_earthquake",
+      "breakpoints": true
+    }
+  ]
+}
